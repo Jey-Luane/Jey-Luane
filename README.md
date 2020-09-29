@@ -6,9 +6,6 @@
 <a target="_blank" href="https://www.instagram.com/jeyluane/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://steamcommunity.com/id/Jeys2/">
-  <img align="left" alt="Steam" width="22px" src="https://https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
-</a>
 <a target="_blank" href="https://www.facebook.com/Krudener">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -39,5 +36,5 @@ I'm a Front-end JavaScript Developer from Brazil 💜, **23 years old**.
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   
