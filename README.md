@@ -17,9 +17,9 @@ Hi, I'm Jéssica, but you can call me **Jey**.
 
 I'm a Front-end JavaScript Developer from Brazil 💜, **23 years old**. 
 
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Suits** 👓 fan. 
+**A book lover** 📕 and a good **video-game player** 🎮. **Suits** 👓 fan. 
 
-* 👾 I'm a fan of the Discord app, [Join in my group](https://discord.gg/8P3k9yD). 
+* 👾 I'm a fan of the Discord app, [Join in my group](https://discord.gg/rs2kHKV). 
 * 🎮 I'm a fan of the **Dead By Daylight** and **League of Legends**. 
 * 🎓 Learning any technology that appears on my way.
 
