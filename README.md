@@ -15,7 +15,7 @@
 
 Hi, I'm Jéssica, but you can call me **Jey**. 
 
-I'm a Front-end JavaScript Developer from Brazil 💜, **23 years old**. 
+I'm a Front-end/Back-end JavaScript Developer from Brazil 💜, **23 years old**. 
 
 **A book lover** 📕 and a good **video-game player** 🎮. **Suits** 👓 fan. 
 
