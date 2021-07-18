@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Jey!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello, I'm Ane!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://open.spotify.com/user/jeyluane10">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
@@ -6,20 +6,16 @@
 <a target="_blank" href="https://www.instagram.com/jeyluane/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/Krudener">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 </br>
 
 ---- 
 
-Hi, I'm Jéssica, but you can call me **Jey**. 
+Hi, I'm Jéssica, but you can call me **Ane**. 
 
-I'm a Front-end/Back-end JavaScript Developer from Brazil 💜, **23 years old**. 
+I'm a Front-end JavaScript and Python Developer from Brazil 💜, **24 yo**. 
 
-**A book lover** 📕 and a good **video-game player** 🎮. **Suits** 👓 fan. 
+**A book lover** 📕 and a good **video-game player** 🎮.
 
-* 👾 I'm a fan of the Discord app, [Join in my group](https://discord.gg/rs2kHKV). 
 * 🎮 I'm a fan of the **Dead By Daylight** and **League of Legends**. 
 * 🎓 Learning any technology that appears on my way.
 
